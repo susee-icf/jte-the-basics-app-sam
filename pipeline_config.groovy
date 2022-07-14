@@ -1,3 +1,3 @@
 libraries{
-    ansible
+    sam
 }
